@@ -17,6 +17,6 @@ The analysis contains three parts :
 2. Plotting
 3. Linear Regression
 
-
+The code is tested for certain test cases for the above 3 cases . 
 
 
